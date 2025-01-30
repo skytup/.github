@@ -1,6 +1,6 @@
 # Skytup
 
-![Skytup Banner](https://www.skytup.com/asset/icons/skytup.jpg)
+<!-- ![Skytup Banner](https://www.skytup.com/asset/icons/skytup.jpg) -->
 
 Welcome to **Skytup** – Your Trusted Source for Open-Source and Production-Ready Applications!
 
