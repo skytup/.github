@@ -1,9 +1,10 @@
-
+# Skytup
+![Skytup Banner](https://www.skytup.com/asset/icons/skytup.png)
 
 Welcome to **Skytup** – Your Trusted Source for Open-Source and Production-Ready Applications!
 
 ## 🚀 About Us
-Skytup is dedicated to building open-source and production-ready applications, specializing in:
+Skytup is a Platform Founded by Akash Vishwakarma in 2023. It is dedicated to building open-source and production-ready applications, Exploring the world of software development, and providing a platform for developers to collaborate and share their knowledge.
 - Web Development (HTML, CSS, JavaScript, PHP, React, Flask, etc.)
 - IoT & Embedded Systems (Arduino, NodeMCU, Bluetooth & Sensor-based Projects)
 - Automation & AI-based Applications
