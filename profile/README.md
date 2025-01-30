@@ -1,5 +1,3 @@
-# Skytup
-
 <!-- ![Skytup Banner](https://www.skytup.com/asset/icons/skytup.jpg) -->
 
 Welcome to **Skytup** – Your Trusted Source for Open-Source and Production-Ready Applications!
@@ -19,8 +17,8 @@ We aim to:
 
 ## 📂 Projects
 Here are some of our key projects:
-- **[Project Name 1](https://github.com/skytup/project1)** - Description
-- **[Project Name 2](https://github.com/skytup/project2)** - Description
+- **[Skytup](https://www.skytup.com/)** - A Full Stack Website
+<!-- - **[Project Name 2](https://github.com/skytup/project2)** - Description -->
 - **More coming soon!**
 
 ## 🎯 How to Contribute
