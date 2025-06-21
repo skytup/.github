@@ -1,5 +1,5 @@
 # Skytup
-![Skytup Banner](https://www.skytup.com/asset/icons/skytup.png)
+![Skytup Banner](https://avatars.githubusercontent.com/u/196995051?s=200&v=4)
 
 Welcome to **Skytup** – Your Trusted Source for Open-Source and Production-Ready Applications!
 
